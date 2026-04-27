@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "How to start business",
+    "channel": "Business Guru",
+    "videoId": "Jp4uhMEMRN8",
+    "thumbnail": "https://img.youtube.com/vi/Jp4uhMEMRN8/0.jpg",
+    "category": "Business"
+  },
+  {
+    "id": 2,
+    "title": "Business Growth Strategy",
+    "channel": "Business Guru",
+    "videoId": "OGs2YsqvWDg",
+    "thumbnail": "https://img.youtube.com/vi/OGs2YsqvWDg/0.jpg",
+    "category": "Business"
+  },
+  {
+    "id": 3,
+    "title": "Daily news update",
+    "channel": "News India",
+    "videoId": "3JZ_D3ELwOQ",
+    "thumbnail": "https://img.youtube.com/vi/3JZ_D3ELwOQ/0.jpg",
+    "category": "News"
+  },
+  {
+    "id": 4,
+    "title": "Learn coding fast",
+    "channel": "Code Master",
+    "videoId": "tgbNymZ7vqY",
+    "thumbnail": "https://img.youtube.com/vi/tgbNymZ7vqY/0.jpg",
+    "category": "Education"
+  },
+  {
+    "id": 5,
+    "title": "Stay focused",
+    "channel": "Motivation Hub",
+    "videoId": "l482T0yNkeo",
+    "thumbnail": "https://img.youtube.com/vi/l482T0yNkeo/0.jpg",
+    "category": "Motivation"
+  },
+  {
+    "id": 6,
+    "title": "Stay focused",
+    "channel": "Motivation Hub",
+    "videoId": "JqxZGXQf0qg",
+    "thumbnail": "https://img.youtube.com/vi/l482T0yNkeo/0.jpg",
+    "category": "Business"
+  }
+]
